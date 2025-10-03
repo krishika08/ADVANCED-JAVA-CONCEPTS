@@ -8,6 +8,7 @@ public void run(){
                 }
 }
 }
+
 class practise13b extends Thread{
 public void run(){
                 // infinite loop
@@ -24,3 +25,4 @@ public class cwh_13_q1 {
                     p2.start();// Starts from the first thread and runs upto the infinite
                 }          
 }
+
